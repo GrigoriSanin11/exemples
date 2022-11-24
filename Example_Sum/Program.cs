@@ -1,3 +1,5 @@
-﻿int namberA = 3 ;
-int namberB = 2 ;
+﻿int namberA = new Random().Next(-8,9);
+Console.WriteLine(namberA);
+int namberB = new Random().Next(2,22);
+Console.WriteLine(namberB);
 Console.WriteLine(namberA + namberB);
