@@ -1,3 +1,3 @@
-﻿int namberA = 7 ;
-int namberB = 2 ;
+﻿double namberA = 7 ;
+double namberB = 2 ;
 Console.WriteLine(namberA / namberB);
