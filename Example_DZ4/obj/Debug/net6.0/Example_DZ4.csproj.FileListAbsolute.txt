@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\examples\Exemple001_HelloConsole\Example_DZ4\obj\Debug\net6.0\Example_DZ4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\examples\Exemple001_HelloConsole\Example_DZ4\obj\Debug\net6.0\Example_DZ4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\examples\Exemple001_HelloConsole\Example_DZ4\obj\Debug\net6.0\Example_DZ4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\examples\Exemple001_HelloConsole\Example_DZ4\obj\Debug\net6.0\Example_DZ4.AssemblyInfo.cs
+C:\Users\User\Desktop\examples\Exemple001_HelloConsole\Example_DZ4\obj\Debug\net6.0\Example_DZ4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\examples\Exemple001_HelloConsole\Example_DZ4\bin\Debug\net6.0\Example_DZ4.exe
+C:\Users\User\Desktop\examples\Exemple001_HelloConsole\Example_DZ4\bin\Debug\net6.0\Example_DZ4.deps.json
+C:\Users\User\Desktop\examples\Exemple001_HelloConsole\Example_DZ4\bin\Debug\net6.0\Example_DZ4.runtimeconfig.json
+C:\Users\User\Desktop\examples\Exemple001_HelloConsole\Example_DZ4\bin\Debug\net6.0\Example_DZ4.dll
+C:\Users\User\Desktop\examples\Exemple001_HelloConsole\Example_DZ4\bin\Debug\net6.0\Example_DZ4.pdb
+C:\Users\User\Desktop\examples\Exemple001_HelloConsole\Example_DZ4\obj\Debug\net6.0\Example_DZ4.dll
+C:\Users\User\Desktop\examples\Exemple001_HelloConsole\Example_DZ4\obj\Debug\net6.0\refint\Example_DZ4.dll
+C:\Users\User\Desktop\examples\Exemple001_HelloConsole\Example_DZ4\obj\Debug\net6.0\Example_DZ4.pdb
+C:\Users\User\Desktop\examples\Exemple001_HelloConsole\Example_DZ4\obj\Debug\net6.0\Example_DZ4.genruntimeconfig.cache
+C:\Users\User\Desktop\examples\Exemple001_HelloConsole\Example_DZ4\obj\Debug\net6.0\ref\Example_DZ4.dll
